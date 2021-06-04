@@ -1,6 +1,6 @@
 # Object Iteration Practice
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/object-iteration-mini-lab-javascript)](https://repl.it/github/upperlinecode/object-iteration-mini-lab-javascript)
+> NOTE: This lab is designed to run in Glitch, not repl.it.
 
 ### The goal
 
