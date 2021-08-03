@@ -1,5 +1,7 @@
 # Object Iteration Practice
 
+> IMPORTANT NOTE FOR SEO TEACHERS August 4, 2021: THIS IS THE ADVANCED LAB! The other one is easier - please start there!
+
 > NOTE: This lab is designed to run in Glitch, not repl.it.
 
 ### The goal
